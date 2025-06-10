@@ -14,7 +14,7 @@ Full details can be found in this [Markdown made using RStudio]().
 
 
 ## Business Task
-To identify and analyse trends in smart device usage data in order to gain insights into how consumers use non-Bellabeat smart devices. These insights will then guide the marketing strategy for the company.
+To design a dashboard that reveals insights about repeat callers to the Google Fiber customer service team, which will help leaders assess whether the team is able to respond to customer questions the first time, and how to improve the overall customer experience.
 
 ## Guiding Questions
 1. How often does the customer service team receive repeat calls from customers?
