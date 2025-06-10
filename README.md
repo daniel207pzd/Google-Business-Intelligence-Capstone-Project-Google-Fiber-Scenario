@@ -31,6 +31,9 @@ The Tableau dashboard can be found [here](https://public.tableau.com/app/profile
 ## Dataset
 The dataset was provided by Google Fiber.
 
+## Conclusion
+Through data cleaning, analysis, and visualisation, this project provides actionable insights into customer call patterns, enabling informed decision-making to enhance customer satisfaction and operational efficiency across diverse markets and issue types.
+
 ## Posted in
 - [Kaggle]()
 - [RPubs]()
