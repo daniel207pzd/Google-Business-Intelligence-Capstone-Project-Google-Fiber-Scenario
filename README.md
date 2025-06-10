@@ -17,16 +17,16 @@ Full details can be found in this [Markdown made using RStudio]().
 To identify and analyse trends in smart device usage data in order to gain insights into how consumers use non-Bellabeat smart devices. These insights will then guide the marketing strategy for the company.
 
 ## Guiding Questions
-1. What are some trends in smart device usage?
-2. How could these trends apply to Bellabeat customers?
-3. How could these trends help influence Bellabeat marketing strategy?
+1. How often does the customer service team receive repeat calls from customers?
+2. What problem types generate the most repeat calls?
+3. Which market city’s customer service team receives the most repeat calls?
 
 ## Tools Used
 - Google BigQuery for data integration
-- Python (pandas library) for Data Cleaning
+- Python (pandas library) for Data Cleaning and Formatting
 - Tableau for Dashboarding
 
-Tableau visualisations can be found [here](https://public.tableau.com/app/profile/daniel.poe/viz/GoogleBusinessIntelligenceCapstoneProjectGoogleFiberScenario/GoogleFiberDashboard).
+The Tableau dashboard can be found [here](https://public.tableau.com/app/profile/daniel.poe/viz/GoogleBusinessIntelligenceCapstoneProjectGoogleFiberScenario/GoogleFiberDashboard).
 
 ## Dataset
 The dataset was provided by Google Fiber.
