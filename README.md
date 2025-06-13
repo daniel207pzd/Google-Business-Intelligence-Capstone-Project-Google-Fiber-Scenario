@@ -14,7 +14,7 @@ Full details can be found in this [Markdown made using RStudio]().
 
 
 ## Business Task
-To design a dashboard that reveals insights about repeat callers to the Google Fiber customer service team, which will help leaders assess whether the team is able to respond to customer questions the first time, and how to improve the overall customer experience.
+To design a dashboard that reveals insights about repeat callers to the Google Fiber customer service team, which will help leaders assess whether the team can respond to customer questions the first time, and how to improve the overall customer experience.
 
 ## Guiding Questions
 1. How often does the customer service team receive repeat calls from customers?
@@ -23,8 +23,8 @@ To design a dashboard that reveals insights about repeat callers to the Google F
 
 ## Tools Used
 - Google BigQuery for data integration
-- Python (pandas library) for Data Cleaning and Formatting
-- Tableau for Dashboarding
+- Python (pandas library) for data cleaning and formatting
+- Tableau for dashboarding
 
 The Tableau dashboard can be found [here](https://public.tableau.com/app/profile/daniel.poe/viz/GoogleBusinessIntelligenceCapstoneProjectGoogleFiberScenario/GoogleFiberDashboard).
 
