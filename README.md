@@ -28,6 +28,8 @@ To design a dashboard that reveals insights about repeat callers to the Google F
 
 The Tableau dashboard can be found [here](https://public.tableau.com/app/profile/daniel.poe/viz/GoogleBusinessIntelligenceCapstoneProjectGoogleFiberScenario/GoogleFiberDashboard).
 
+![Google Fiber Dashboard](https://github.com/user-attachments/assets/f39ab7d3-a1d9-413f-9c87-4f77deee5510)
+
 ## Dataset
 The dataset was provided by Google Fiber.
 
