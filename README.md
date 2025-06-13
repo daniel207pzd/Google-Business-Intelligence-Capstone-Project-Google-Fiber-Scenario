@@ -11,7 +11,9 @@ This is a capstone project that I have completed as part of the [Google Business
 Full details can be found in this [Markdown made using RStudio]().
 
 ## Background
+I am interviewing for a job with Google Fiber (also GFiber), which provides people and businesses with fibre optic internet. As part of the interview process, the Fiber customer service team has asked me to design a dashboard using fictional data. The position I am interviewing for is in the customer call centre, where Fiber uses business intelligence to monitor and improve customer satisfaction. To provide the interviewers with both BI value and organisational data maturity, I will use my knowledge of the BI stages: Capture, Analyse, and Monitor.
 
+The team needs to understand how often customers  phone customer support again after their first inquiry; this will help leaders understand whether the team is able to answer customer questions the first time. Further, leaders want to explore trends in repeat calls to identify why customers are having to call more than once, as well as how to improve the overall customer experience. I will create a dashboard to reveal insights about repeat callers.
 
 ## Business Task
 To design a dashboard that reveals insights about repeat callers to the Google Fiber customer service team, which will help leaders assess whether the team can respond to customer questions the first time, and how to improve the overall customer experience.
@@ -26,12 +28,13 @@ To design a dashboard that reveals insights about repeat callers to the Google F
 - Python (pandas library) for data cleaning and formatting
 - Tableau for dashboarding
 
-The Tableau dashboard can be found [here](https://public.tableau.com/app/profile/daniel.poe/viz/GoogleBusinessIntelligenceCapstoneProjectGoogleFiberScenario/GoogleFiberDashboard).
+## Interactive Tableau Dashboard
+The interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/daniel.poe/viz/GoogleBusinessIntelligenceCapstoneProjectGoogleFiberScenario/GoogleFiberDashboard).
 
 ![Google Fiber Dashboard](https://github.com/user-attachments/assets/f39ab7d3-a1d9-413f-9c87-4f77deee5510)
 
 ## Dataset
-The dataset was provided by Google Fiber.
+The dataset was provided by Google Fiber, and has been anonymised and approved.
 
 ## Conclusion
 Through data cleaning, analysis, and visualisation, this project provides actionable insights into customer call patterns, enabling informed decision-making to enhance customer satisfaction and operational efficiency across diverse markets and issue types.
