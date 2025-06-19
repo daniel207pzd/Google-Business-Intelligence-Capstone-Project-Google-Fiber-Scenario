@@ -573,7 +573,7 @@ by the stakeholders. I have also included additional helpful filters by
 weekday, market city, and problem type. The FCR metric/KPI, first calls,
 and repeated calls will be automatically updated.
 
-![](Google%20Fiber%20Dashboard.png)
+![Google Fiber Dashboard](https://github.com/user-attachments/assets/0c5c0325-d367-426c-beba-4862724819b0)
 
 ### Analysis and Observations
 
@@ -625,18 +625,15 @@ drawn:
 
 #### Market City
 
-![](Total%20Calls%20by%20Market%20Area.png) **Observations**: Market
-City 1 received the greatest number of calls within the quarter,
-followed by Market Cities 3 and 2.
+![Total Calls by Market Area](https://github.com/user-attachments/assets/6952e69f-124b-464c-b1fa-5a01ddeef843)
+**Observations**: Market City 1 received the greatest number of calls within the quarter, followed by Market Cities 3 and 2.
 
-![](Repeat%20Caller%20Trends%20by%20Market.png) **Observations**:
-Throughout the quarter, the greatest number of repeat calls came from
-Market City 1. Market City 3 has consistently received the least number
-of repeat calls.
+![Repeat Caller Trends by Market](https://github.com/user-attachments/assets/b2e1bbee-feb3-4316-898c-31acbd3ed58e)
+**Observations**: Throughout the quarter, the greatest number of repeat calls came from Market City 1. Market City 3 has consistently received the least number of repeat calls.
 
 #### Problem Types
 
-![](Market%20and%20Problem%20Types%20for%20Repeat%20Calls.png)
+![Market and Problem Types for Repeat Calls](https://github.com/user-attachments/assets/d1a3806d-bddd-4765-8141-69f4a05a9e3f)
 **Observations**: Across the three market cities in the quarter, the two
 most significant issues repeat callers called about were regarding
 internet and Wi-Fi, and technician troubleshooting.
