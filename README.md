@@ -40,5 +40,4 @@ The dataset was provided by Google Fiber, and has been anonymised and approved.
 Through data cleaning, analysis, and visualisation, this project provides actionable insights into customer call patterns, enabling informed decision-making to enhance customer satisfaction and operational efficiency across diverse markets and issue types.
 
 ## Posted in
-- [Kaggle]()
-- [RPubs]()
+- [RPubs](https://rpubs.com/daniel207pzd/1323691)
