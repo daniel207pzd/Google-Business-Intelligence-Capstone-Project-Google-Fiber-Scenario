@@ -8,7 +8,7 @@ This is a capstone project that I have completed as part of the [Google Business
 * Design data visualizations that answer business questions
 * Create dashboards that effectively communicate data insights to stakeholders
 
-Full details can be found in this [Markdown made using RStudio]().
+Full details can be found in this [Markdown made using RStudio](https://github.com/daniel207pzd/Google-Business-Intelligence-Capstone-Project-Google-Fiber-Scenario/blob/main/Google-Business-Intelligence-Capstone-Project---Google-Fiber.md).
 
 ## Background
 I am interviewing for a job with Google Fiber (also GFiber), which provides people and businesses with fibre optic internet. As part of the interview process, the Fiber customer service team has asked me to design a dashboard using fictional data. The position I am interviewing for is in the customer call centre, where Fiber uses business intelligence to monitor and improve customer satisfaction. To provide the interviewers with both BI value and organisational data maturity, I will use my knowledge of the BI stages: Capture, Analyse, and Monitor.
