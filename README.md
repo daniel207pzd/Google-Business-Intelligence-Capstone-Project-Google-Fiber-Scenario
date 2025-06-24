@@ -41,3 +41,4 @@ Through data cleaning, analysis, and visualisation, this project provides action
 
 ## Posted in
 - [RPubs](https://rpubs.com/daniel207pzd/1323691)
+- [Kaggle](https://www.kaggle.com/code/phildanielpoe/google-business-intelligence-capstone-project)
