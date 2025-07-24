@@ -36,6 +36,32 @@ The interactive Tableau dashboard can be found [here](https://public.tableau.com
 ## Dataset
 The dataset was provided by Google Fiber, and has been anonymised and approved.
 
+## Key Findings and Recommendations
+
+The key findings of this project are as follows:
+
+- Market city 2 has the best overall FCR rate, while market city 3 has
+  the lowest overall FCR rate.
+- Market city 1 received the greatest number of repeat calls.
+- Most repeat calls were made regarding internet and Wi-Fi, and
+  technician troubleshooting problems.
+- Market city 1 has an FCR rate below industry standards for scheduling
+  problems.
+- Market city 3 has FCR rates below industry standards for accounting
+  and scheduling problems.
+
+Based on these key findings, I would like to make the following
+recommendations:
+
+- Provide more training and support for handling technician
+  troubleshooting and internet and WiFi problems.
+- Allocate more resources and staff to market_1 to address the higher
+  volume of repeat calls.
+- Training should be provided to staff in market_3 to equip them better
+  to handle account management and scheduling problems.
+- Provide additional support to market_1 for staff to handle scheduling
+  problems better.
+
 ## Conclusion
 Through data cleaning, analysis, and visualisation, this project provides actionable insights into customer call patterns, enabling informed decision-making to enhance customer satisfaction and operational efficiency across diverse markets and issue types.
 
